@@ -1,0 +1,15 @@
+Index: second-subfolder/fourth-file.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Fourth file text\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/second-subfolder/fourth-file.txt b/second-subfolder/fourth-file.txt
+--- a/second-subfolder/fourth-file.txt	(revision 024790d0817e9be6c2ef15fa71d43cfe2caca1e9)
++++ b/second-subfolder/fourth-file.txt	(date 1676833968032)
+@@ -1,1 +1,3 @@
+ Fourth file text
++
++Was modified
+\ No newline at end of file
